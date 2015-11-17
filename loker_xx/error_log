@@ -1,0 +1,22 @@
+[22-Jun-2015 11:20:09 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'devkursusles'@'localhost' (using password: YES) in /home/devkursusles/public_html/loker/php/lib/db_connection.php on line 20
+[22-Jun-2015 11:20:28 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'devkursusles'@'localhost' (using password: YES) in /home/devkursusles/public_html/loker/php/lib/db_connection.php on line 20
+[22-Jun-2015 11:20:29 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'devkursusles'@'localhost' (using password: YES) in /home/devkursusles/public_html/loker/php/lib/db_connection.php on line 20
+[22-Jun-2015 11:20:31 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'devkursusles'@'localhost' (using password: YES) in /home/devkursusles/public_html/loker/php/lib/db_connection.php on line 20
+[22-Jun-2015 14:07:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/devkursusles/public_html/loker/search_category.php:16) in /home/devkursusles/public_html/loker/search_category.php on line 213
+[22-Jun-2015 14:09:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_IF in /home/devkursusles/public_html/loker/search_category.php on line 183
+[22-Jun-2015 14:11:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_IF in /home/devkursusles/public_html/loker/search_category.php on line 183
+[22-Jun-2015 14:17:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/devkursusles/public_html/loker/search_category.php:184) in /home/devkursusles/public_html/loker/search_category.php on line 212
+[22-Jun-2015 14:26:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:27:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:28:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:30:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:30:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:31:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:31:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:32:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/devkursusles/public_html/loker/profil_pers.php on line 81
+[22-Jun-2015 14:32:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/devkursusles/public_html/loker/profil_pers.php on line 81
+[22-Jun-2015 14:50:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:51:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/devkursusles/public_html/loker/profil_pers.php on line 79
+[22-Jun-2015 14:53:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/devkursusles/public_html/loker/profil_pers.php on line 80
+[23-Jun-2015 10:05:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/devkursusles/public_html/loker/search.php on line 66
+[23-Jun-2015 10:09:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/devkursusles/public_html/loker/search.php:86) in /home/devkursusles/public_html/loker/search.php on line 146

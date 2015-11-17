@@ -1,0 +1,20 @@
+[13-Jul-2015 23:39:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/devkursusles/public_html/dev1/php/page/level.php on line 303
+[13-Jul-2015 23:39:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/devkursusles/public_html/dev1/php/page/level.php on line 303
+[13-Jul-2015 23:43:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/devkursusles/public_html/dev1/php/page/level.php on line 303
+[13-Jul-2015 23:44:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/devkursusles/public_html/dev1/php/page/level.php on line 303
+[14-Jul-2015 00:09:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/devkursusles/public_html/dev1/php/page/level.php on line 288
+[14-Jul-2015 00:11:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/devkursusles/public_html/dev1/php/page/level.php on line 287
+[14-Jul-2015 00:11:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/devkursusles/public_html/dev1/php/page/level.php on line 287
+[14-Jul-2015 00:12:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/devkursusles/public_html/dev1/php/page/level.php on line 287
+[14-Jul-2015 02:45:32 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/devkursusles/public_html/dev1/php/page/level.php on line 26
+[14-Jul-2015 03:11:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/devkursusles/public_html/dev1/php/page/level.php on line 32
+[14-Jul-2015 03:11:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/devkursusles/public_html/dev1/php/page/level.php on line 32
+[14-Jul-2015 03:15:23 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:17:37 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:19:14 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:21:38 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:23:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/devkursusles/public_html/dev1/php/page/level.php on line 38
+[14-Jul-2015 03:23:56 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:24:54 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:26:09 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47
+[14-Jul-2015 03:26:50 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/devkursusles/public_html/dev1/php/lib/db_connection.php on line 47

@@ -1,0 +1,28 @@
+.formInput{
+	line-height: 15px;
+	padding: 4px;
+}
+.formInput span{
+	display: inline-block;
+	width: 2%;
+}
+.inputDesc{
+	display: inline-block;
+	width: 20%;
+}
+.validation-invalid{
+	width: 33% !important;
+}
+.validation-valid, .validation-invalid{
+	margin-left: 10px;
+	padding-left: 20px;
+	width: 33% !important;
+}
+.validation-valid{
+	background: transparent url('APP_IMAGE_URLaccept.png') no-repeat center left;
+	color: #0C0;
+}
+.validation-invalid{
+	background: transparent url('APP_IMAGE_URLignore.png') no-repeat center left;
+	color: #F00;
+}

@@ -1,0 +1,107 @@
+#testi_container{
+	margin-top: 20px;
+	min-width: 675px;
+}
+.inputTesti_container{
+	margin-bottom: 8px;
+}
+.inputTesti_label{
+	font-size: 14px;
+}
+.testimsg_input{
+	color: #F00;
+	font-size: 13px;
+	font-weight: bold;
+}
+.inputtesti-block-level{
+	box-shadow: none !important;
+	display: inline;
+	font-size: 13px;
+	margin-right: -5px;
+	resize: none;
+	width: 100%;
+}
+input[type=text], textarea{
+	border: 1px solid #ccc;
+}
+#showButton_Testicontainer {
+	margin: 2px 0;
+	position: relative;
+	text-align: right;
+}
+#showButton_Testicontainer:after {
+	background: #ccc;
+	content: "";
+	display: block;
+	height: 1px;
+	left: 0;
+	margin-left: 20px;
+	position: absolute;
+	top: 50%;
+	width: 94%;
+	z-index: -1;
+}
+#testimsg_process{
+	font-size: 14px;
+	padding-left: 20px;
+	text-align: left;
+}
+.testimsg_loading{background: url("APP_IMAGE_URLloading2.gif") no-repeat scroll left center transparent;}
+.show{display: inline;}
+.hide{display: none;}
+/* RATING */
+.photo_user{
+	display: inline;
+	float: left;
+	height: 100px;
+	margin-right: 10px;
+	min-width: 100px;
+	padding: 4px;
+	text-align: center;
+	width: 12%;
+}
+.image_user{
+	height: 92px;
+	width: 92px;
+}
+.testi_content{
+}
+.user_name h3{
+	margin: 3px;
+}
+.date_rating{
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.text_content{
+	font-size: 13px;
+}
+.testi_rating{
+	border: 1px solid #DEDEDE;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	box-sizing: content-box !important;
+	font-size: 12px;
+	height: 20px;
+	margin: 35px 0 10px 0;
+	padding: 6px;
+}
+.testi_rating strong{
+	height: 18px;
+	vertical-align: top;
+}
+.rating_star{
+	display: inline-block;
+	height: 19px;
+	margin-left: 8px;
+	padding: 2px;
+	padding-left: 82px;
+	width: 75px;
+}
+.rating1{background: url("APP_IMAGE_URLrate1.png") no-repeat 0 1px;}
+.rating2{background: url("APP_IMAGE_URLrate2.png") no-repeat 0 1px;}
+.rating3{background: url("APP_IMAGE_URLrate3.png") no-repeat 0 1px;}
+.rating4{background: url("APP_IMAGE_URLrate4.png") no-repeat 0 1px;}
+.rating5{background: url("APP_IMAGE_URLrate5.png") no-repeat 0 1px;}

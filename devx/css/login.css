@@ -1,0 +1,62 @@
+#login_container{
+	background: #EDEDED;
+	border: 2px solid #bbb;
+	-moz-border-radius: 6px;
+	-o-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+	margin: 100px auto;
+	min-width: 360px !important;
+	padding: 10px;
+	top: 100px;
+	width: 30%;
+}
+h2, h3, h4{
+	color: #666;
+	margin: 10px;
+}
+#login_msg{
+	background: #7C9294 url('APP_IMAGE_URLinfo2.png') no-repeat 2px center;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+	color: #fff;
+	margin: 6px auto;
+	padding: 10px;
+	padding-left: 42px;
+	width: 100% !important;
+}
+.devider{
+	display: block;
+	background: #ccc;
+	border-bottom: 1px solid #fff;
+	height: 1px;
+	clear: both;
+	margin-top: 3px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.formInput{
+	line-height: 18px;
+	padding: 4px;
+}
+.formInput span{
+	display: inline-block;
+	width: 2%;
+}
+.inputDesc{
+	display: inline-block;
+	width: 30%;
+}
+input[type=text], input[type=password]{
+	border: 1px solid #ccc;
+	font-size: 13px;
+	padding: 3px;
+}
+#button_container{
+	margin-top: 10px;
+	padding: 5px;
+	text-align:center;
+}

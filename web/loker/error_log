@@ -1,0 +1,2 @@
+[12-Apr-2015 21:50:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'devkursusles'@'localhost' (using password: NO) in /home/devkursusles/public_html/web/loker/header.php on line 11
+[12-Apr-2015 21:50:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/devkursusles/public_html/web/loker/header.php on line 11
