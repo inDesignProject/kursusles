@@ -65,3 +65,24 @@ Selebihnya hanya digunakan keperluan development (isinya sama saja)
     - belipaket.php : file yang berisi function untuk membeli paket dari pengajar.
     - daftar_rekening.php : file yang berisi function untuk menambah rekening.
     - detail_paket.php : file untuk menampilkan detail paket.
+    - editdata.php : file yang berisi function untuk edit data pengajar.
+    - forgot_password.php : file php untuk request password.
+    - index.php : file index website.
+    - index_global.php : file index profil menampilkan profil pengajar dan murid.
+    - index_murid.php : file index profil menampilkan hanya profil murid.
+    - index_pengajar.php : file index profil menampilkan hanya profil pengajar.
+    - login.php : file untuk menampilkan form login.
+    - logout.php : file untuk menghapus session user.
+    - msg_center.php : file untuk menampilkan daftar pesan.
+    - msg_compose.php : file untuk membuat/kirim pesan.
+    - pengajar_kursus.php : file untuk menampilkan halaman daftar kursus.
+    - pengajar_profil.php : file untuk menampilkan halaman profil pengajar.
+    - search_detail.php : file untuk menampilkan halaman search detail.
+    - search_result.php : file untuk menampilkan halaman hasil pencarian.
+    - send_report.php : file untuk melaporkan pengajar.
+    - signup.php : file untuk menampilakan form daftar.
+    - signup_activation.php : file untuk aktifasi pendaftaran.
+    - signup_submit.php : file untuk memasukan data signup ke db.
+    - tutorial.php : file untuk menampilkan halaman tutorial.
+    - veri_akun.php : file untuk verifikasi akun.
+    - withdraw.php : file untuk menampilkan halaman withdraw.
