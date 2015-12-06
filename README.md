@@ -52,3 +52,16 @@ Selebihnya hanya digunakan keperluan development (isinya sama saja)
     - upload_foto.php : file yang berisi function untuk mengupload foto profil (pengajar).
     - upload_foto_ktp.php : file yang berisi funtion untuk mengupload scan ktp.
     - upload_foto_murid.php : file yang berisi function untuk mengupload foto profil (murid).
+    
+    1d. File di folder Dev->Template
+    - footer.php : file berisi html untuk bagian footer.
+    - header.php : file berisi html untuk bagian header.
+    - login.php : file berisi html untuk bagian login.
+    - top-header.php : file berisi html untuk bagian top hedaer
+    
+    1e. File - file di folder Dev
+    - .htaccess : file htaccess untuk mengkonfigurasi url.
+    - auth.php : file yang berisi function untuk melakukan pengecekan ketika login.
+    - belipaket.php : file yang berisi function untuk membeli paket dari pengajar.
+    - daftar_rekening.php : file yang berisi function untuk menambah rekening.
+    - detail_paket.php : file untuk menampilkan detail paket.
