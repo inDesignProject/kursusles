@@ -9,7 +9,7 @@ Folder yang digunakan hanya :
 Selebihnya hanya digunakan keperluan development (isinya sama saja)
 
 
-1. Sub Folder di Folder Dev
+1. Folder Dev
   1a. Folder-folder
     - Folder CSS : berisi file css yang digunakan pada web kursusles.
     - Folder Font : berisi font yang digunakan pada web kursusles.
@@ -18,7 +18,7 @@ Selebihnya hanya digunakan keperluan development (isinya sama saja)
     - Folder PHP : berisi function dan library PHP untuk web kursusles.
     - Folder Template : berisi template web kursusles yang digunakan di semua page.
 
-  1b. File di folder PHP->lib
+  1b. File di folder Dev->PHP->lib
     - PHPMailerAutoload.php : file yang berisi function PHPMailer Autoload yang digunakan untuk mengirim email.
     - SimpleImage.php : file yang berisi class dan funtion untuk upload image.
     - ajax_response.php : file yang berisi function php dengan respon ajax.
@@ -34,10 +34,21 @@ Selebihnya hanya digunakan keperluan development (isinya sama saja)
 		- upload_foto_ctrl.php : file yang berisi function untuk upload foto.
 		- upload_foto_ktp.php : file yang berisi function untuk upload foto ktp/identitas.
 	 
-	1c. File di folder PHP->page
+	1c. File di folder Dev->PHP->page
     - Kjadwal.php : file yang berisi function untuk menyimpan jadwal pengajar.
     - level.php : file yang berisi function untuk validasi penambahan / pengurangan level / mapel
     - map.php : file yang berisi function untuk menyimpan data perubahan lokasi user.
     - mbalance.php : file yang berisi function yang berhubungan dengan saldo user.
     - mbookmark.php : file yang berisi function untuk mengambil data bookmark.
     - mhelpdesk.php : file yang berisi function pengaduan.
+    - mkursus.php : file yang berisi data kurusus yang diikuti oleh murid, terdapat juga function untuk klaim, dan konfirmasi.
+    - mpenawarwanted.php : file yang berisi data penawaran kursus.
+    - mpencarian.php : file yang berisi function untuk pencarian.
+    - mprofil.php : file yang berisi function profil seperti lihat dan edit profil.
+    - mwithdraw.php : file yang berisi function untuk withdraw.
+    - pesan.php : file yang berisi function untuk mengirim pesan.
+    - profil.php : file untuk menampilkan halaman profil dan mengirim pesan ke pengajar.
+    - testimoni.php : file untuk menampilkan testimoni dan function untuk mengirim testimoni oleh murid.
+    - upload_foto.php : file yang berisi function untuk mengupload foto profil (pengajar).
+    - upload_foto_ktp.php : file yang berisi funtion untuk mengupload scan ktp.
+    - upload_foto_murid.php : file yang berisi function untuk mengupload foto profil (murid).
